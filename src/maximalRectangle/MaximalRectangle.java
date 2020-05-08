@@ -1,9 +1,9 @@
-package editDistance;
+package maximalRectangle;
 
 import java.util.Scanner;
 
 
-public class EditDistance {
+public class MaximalRectangle {
     public static void main(String[] args) {
         int a, b;
         Scanner scanner = new Scanner(System.in);
